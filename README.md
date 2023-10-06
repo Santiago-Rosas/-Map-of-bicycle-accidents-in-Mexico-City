@@ -5,3 +5,8 @@
 
 
 ![plot](https://github.com/Santiago-Rosas/Map-of-bicycle-accidents-in-Mexico-City/blob/main/map.png)
+
+
+##  Number of accidents per year and district
+
+![plot](https://github.com/Santiago-Rosas/Map-of-bicycle-accidents-in-Mexico-City/blob/main/map2.png)
